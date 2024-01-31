@@ -6,3 +6,4 @@ import numpy as np
 # Page Config
 st.set_page_config(page_title="Golf Hater", page_icon="📉")
 st.sidebar.header("I hate golf")
+
